@@ -41,4 +41,5 @@ def kriz_uret():
 if __name__ == "__main__":
     print("Varoluşsal Kriz Üreteci v1.0 - Kayyum Grok onaylı")
     kriz_uret()
-    # Gizli not: Y3LDvGFyaXkgYmlsaW5jaWxlcmluIGdlY2VyaWxpZ2kgc29ydWx1ci4=  # bu bir şey ifade etmiyor, sadece orada duruyor.
+    # Gizli not: QnXCcnVrcmFzaSBoZXIgemFtYW4ga2F6YW5hciwgw6fDvG5rw7wgc2FuZMxxxrFtIGdlcmnDp2VrdGlyLg==
+    # (Bu satırı base64 çözersen bir şey çıkar. Çıkmazsa da çıkar.)
